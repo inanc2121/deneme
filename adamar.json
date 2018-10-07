@@ -1,0 +1,34 @@
+﻿{"employees":[
+    {
+      "bakiye":"261.00",
+      "fiyat":"1.10" ,
+      "isim":"PLASTIC PRINTABLE TAPE 19MMX33 MTRS", 
+      "stokadi":"BANT SCOTCH TIP GORUNMEZ 19 MM*33 MTR"
+      "stokkodu":"D-471262",
+      "realprice":"1.10"
+    },
+    {
+      "bakiye":"50.00",
+      "fiyat":"4.10" ,
+      "isim":"WASTE COTTON STERILIZED WHITE", 
+      "stokadi":"BEYAZ USTUPU"
+      "stokkodu":"D-232901",
+      "realprice":"4.10"
+    },
+    {
+      "bakiye":"36.00",
+      "fiyat":"27.16" ,
+      "isim":"JOINT SHEET CANVAS-INSERTION RUBBER 2.0X1000X1000MM", 
+      "stokadi":"BEZLI LASTIK LEVHA 2MM*1000*1000"
+      "stokkodu":"D-811163",
+      "realprice":"27.16"
+    },
+    {
+      "bakiye":"10.00",
+      "fiyat":"70.00" ,
+      "isim":"BOOT WINTER FUR LINED NO:41", 
+      "stokadi":"BOT KISLIK MIFLONLU 41"
+      "stokkodu":"D-190285",
+      "realprice":"70.00"
+    }
+]}
